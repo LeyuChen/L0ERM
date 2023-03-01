@@ -1,8 +1,8 @@
 Matlab codes for replicating both the simulation and empirical results of Chen and Lee (2020) on binary classification through the L0-penalized empirical risk minimization (ERM) approach. Description of the L0-penalized ERM and details of its numerical studies can be found in the paper:
 
-Chen, Le-Yu and Lee, Sokbae (2020), "Binary Classification with Covariate Selection through L0-Penalized Empirical Risk Minimization".
+Chen, Le-Yu and Lee, Sokbae (2021), "Binary Classification with Covariate Selection through L0-Penalized Empirical Risk Minimization".
 
-The latest working paper version of this work can be found in this repository.
+The paper has been published at Econometrics Journal. See https://academic.oup.com/ectj/article/24/1/103/5860277. The latest working paper version of this work can be found in this repository.
 
 The empirical study is based on the transportation mode choice dataset of Horowitz (1993). This dataset is stored as a Matlab data matrix in the file "horowitz_data.mat". A plain ASCII version for this dataset is also provided in the file "worktrip".
 
