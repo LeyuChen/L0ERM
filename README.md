@@ -15,7 +15,7 @@ CARS  : the number of cars owned by the traveler's household
 DOVTT : the transit out-of-vehicle travel time minus automobile out-of-vehicle travel time in minutes
 DIVTT : the transit in-vehicle travel time minus automobile in-vehicle travel time in minutes
  
-To replicate the simulation and empirical results of the paper, put all program and data files in the same work directory. 
+To replicate the simulation and empirical results of the paper, put all program and data files in the same working directory. 
 
 The Matlab version of the Gurobi solver has to be installed for running the codes for solving the MIO based ERM problems. The Gurobi solver is freely available for academic purposes. You can download it via:
 
